@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I recently completed my PhD in Microbiology & Immunology at Stanford University in [Justin Sonnenburg's lab](https://sonnenburglab.stanford.edu/). I was supported by a Stanford Graduate Fellowship in Science & Engineering (the Smith Fellowship). I studied the impact that diet and lifestyle on the human gut microbiome using metagenomics and metabolomics. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Previously, I worked at [Caribou Biosciences](https://www.cariboubio.com/) where we studied the basic biology of both on-target and off-target editing in human cells using Cas9. I have an undergraduate degree in Biological Engineering from Cornell University, where I worked in [Julius Lucks's lab](https://luckslab.org/) studying the structure-function relationship of non-coding RNAs. 
