@@ -1,15 +1,12 @@
 featured:
   - {
     name: 'Ultra-deep sequencing of Hadza hunter-gatherers recovers vanishing gut microbes', 
-    authors: 'Carter MM*, Olm MR*, Merrill BM*, Dahan D, Tripathi S, Spencer SP, Yu FB, Jain S, Neff N, Jha
-AR, Sonnenburg ED, Sonnenburg JL', 
-    journal: 'Cell', 
-    url: '/publications/1501.07274.pdf'
-  }
-  - {
-    name: 'Ultra-deep sequencing of Hadza hunter-gatherers recovers vanishing gut microbes', 
     authors: '<u>Carter MM*</u>, Olm MR*, Merrill BM*, Dahan D, Tripathi S, Spencer SP, Yu FB, Jain S, Neff N, Jha
 AR, Sonnenburg ED, Sonnenburg JL', 
     journal: 'Cell', 
-    url: '/publications/1501.07274.pdf'
+    year: '2023',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/37348505/',
+    pdf: '/publications/',
+    data: 'https://zenodo.org/records/7782709',
+    press: 'https://www.nature.com/articles/d41586-023-02065-y'
   }

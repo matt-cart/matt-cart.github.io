@@ -1,12 +1,13 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
+    <h5> *authors contributed equally (co-first), &#10013;authors contributed equally (co-second) </h5>
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
         <p>
         {{ item.authors }}<br>
         <b>{{ item.name }}</b><br>
-        {{ item.journal }} [<a href="{{ item.abstract}}">abstract</a>] [<a href="{{ item.pdf }}">pdf</a>]<br>
+        <i>{{ item.journal }}<i> ({{ item.year }}) [<a href="{{ item.abstract}}">abstract</a>] [<a href="{{ item.pdf }}">pdf</a>] [<a href="{{ item.data }}">data</a>] [<a href="{{ item.press }}">in press</a>]<br>
       </p>
       {% endfor %}
     {% else %}
