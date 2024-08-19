@@ -1,7 +1,7 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    <h5> *authors contributed equally (co-first), &#10013;authors contributed equally (co-second) </h5>
+    <p> *authors contributed equally (co-first), &#9838;authors contributed equally (co-second) </p>
     {% if page.title == "Home" %}
     <ol reversed>
       {% for item in site.data.publications.featured %}
@@ -9,7 +9,7 @@
         <p>
           {{ item.authors }}<br>
           <b>{{ item.name }}</b><br>
-          <i>{{ item.journal }}</i> ({{ item.year }}) [<a href="{{ item.abstract}}">abstract</a>] [<a href="{{ item.pdf }}">pdf</a>] {% if item.data %}[<a href="{{ item.data }}">data</a>] {% endif %}[<a href="{{ item.press }}">in press</a>]<br>
+          <i>{{ item.journal }}</i> ({{ item.year }}) [<a href="{{ item.abstract}}">abstract</a>] [<a href="{{ item.pdf }}">pdf</a>] {% if item.data %}[<a href="{{ item.data }}">data</a>] {% endif %}{% if item.press %}[<a href="{{ item.press }}">in press</a>]{% endif %}<br>
         </p>
       </li>
       {% endfor %}

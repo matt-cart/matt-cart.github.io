@@ -1,9 +1,9 @@
 featured:
   - {
     name: 'Unveiling the Epigenetic Impact of Vegan vs. Omnivorous Diets on Aging: Insights from
-the Twins Nutrition Study (TwiNS)', 
+    the Twins Nutrition Study (TwiNS)', 
     authors: 'Dwaraka VB, Aronica L, Carerras-Gallo N, Robinson JL, Hennings T, Lin A, Turner L, Smith R,
-Mendez TL, Went H, Ebel ER, <u>Carter MM</u>, Sonnenburg ED, Sonnenburg JL, Gardner CD', 
+    Mendez TL, Went H, Ebel ER, <u>Carter MM</u>, Sonnenburg ED, Sonnenburg JL, Gardner CD', 
     journal: 'BMC Medicine', 
     year: '2024',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/39069614/',
@@ -11,8 +11,19 @@ Mendez TL, Went H, Ebel ER, <u>Carter MM</u>, Sonnenburg ED, Sonnenburg JL, Gard
     press: 'https://www.forbes.com/sites/grrlscientist/2024/07/30/an-eight-week-vegan-diet-may-slow-biological-aging/'
   }
   - {
+    name: 'Metabolic diversity in commensal protists regulates intestinal immunity and trans-kingdom
+    competition', 
+    authors: 'Gerrick ER, Zlitni S&#9838;, West PT&#9838;, <u>Carter MM</u>&#9838;, Mechler CM, Olm MR, Caffrey EB, Li JA, Higginbot-
+    tom SK, Severyn CJ, Kracke F, Spormann AM, Sonnenburg JL, Bhatt AS, Howitt MR', 
+    journal: 'Cell', 
+    year: '2024',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/38096822/',
+    pdf: '/publications/',
+    press: 'https://phys.org/news/2023-12-large-diversity-protists-parabasalia-phylum.html'
+  }
+  - {
     name: 'Ultra-deep sequencing of Hadza hunter-gatherers recovers vanishing gut microbes', 
-    authors: '<u>Carter MM*</u>, Olm MR*, Merrill BM*, Dahan D, Tripathi S, Spencer SP, Yu FB, Jain S, Neff N, Jha
+    authors: '<u>Carter MM</u>*, Olm MR*, Merrill BM*, Dahan D, Tripathi S, Spencer SP, Yu FB, Jain S, Neff N, Jha
     AR, Sonnenburg ED, Sonnenburg JL', 
     journal: 'Cell', 
     year: '2023',
@@ -21,3 +32,17 @@ Mendez TL, Went H, Ebel ER, <u>Carter MM</u>, Sonnenburg ED, Sonnenburg JL, Gard
     data: 'https://zenodo.org/records/7782709',
     press: 'https://www.nature.com/articles/d41586-023-02065-y'
   }
+  - {
+    name: 'Butyrate differentiates permissiveness to <i>Clostridioides difficile</i> infection and influences
+growth of diverse <i>C. difficile</i> isolates', 
+    authors: 'Pensinger DA, Fisher AT, Dobrila HA, Van Treuren W, Gardner JO, Higginbottom SK, <u>Carter MM</u>,
+Schumann B, Bertozzi CR, Anikst V, Martin C, Robilotti EV, Chow JM, Buck RH, Tompkins LS,
+Sonnenburg JL, Hryckowian AJ', 
+    journal: 'Infection and Immunity', 
+    year: '2023',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/36692308/',
+    pdf: '/publications/'
+  }
+
+
+
