@@ -43,6 +43,40 @@ Sonnenburg JL, Hryckowian AJ',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/36692308/',
     pdf: '/publications/'
   }
+  - {
+    name: 'A microbiome-targeting fibre-enriched nutritional formula is well tolerated and improves
+quality of life and haemoglobin A1c in type 2 diabetes: A double-blind, randomized,
+placebo-controlled trial', 
+    authors: 'Frias JP, Lee ML, <u>Carter MM</u>, Ebel ER, Lai RH, Rikse L, Washington ME, Sonnenburg JL, Damman
+CJ', 
+    journal: 'Diabetes, Obesity and Metabolism', 
+    year: '2023',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/36594522/',
+    pdf: '/publications/'
+  }
+  - {
+    name: 'Robust variation in infant gut microbiome assembly across a spectrum of lifestyles', 
+    authors: 'Olm MR*, Dahan D*, <u>Carter MM</u>, Merrill BM, Yu FB, Jain S, Meng XD, Tripathi S, Wastyk H, Neff
+N, Holmes S, Sonnenburg ED, Jha AR, Sonnenburg JL', 
+    journal: 'Science', 
+    year: '2023',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/35679413/',
+    pdf: '/publications/'
+  }
+  - {
+    name: 'The Tabula Sapiens: a multiple organ single cell transcriptomic atlas of humans', 
+    authors: '<u>Tabula Sapiens Consortium</u>, Quake SR', 
+    journal: 'Science', 
+    year: '2022',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/35549404/',
+    pdf: '/publications/',
+    data: 'https://tabula-sapiens-portal.ds.czbiohub.org/',
+    press: 'https://phys.org/news/2022-05-tabula-sapiens-multi-organ-cell-atlas.html'
+  }
+
+
+
+
 
 
 
