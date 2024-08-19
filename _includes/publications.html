@@ -9,7 +9,7 @@
         <p>
           {{ item.authors }}<br>
           <b>{{ item.name }}</b><br>
-          <i>{{ item.journal }}</i> ({{ item.year }}) [<a href="{{ item.abstract}}">abstract</a>] [<a href="{{ item.pdf }}">pdf</a>] {% if item.data %}[<a href="{{ item.data }}">data</a>] {% endif %}{% if item.press %}[<a href="{{ item.press }}">press</a>]{% endif %}<br>
+          <i>{{ item.journal }}</i> ({{ item.year }}) [<a target="_blank" href="{{ item.abstract}}">abstract</a>] [<a target="_blank" href="{{ item.pdf }}">pdf</a>] {% if item.data %}[<a target="_blank" href="{{ item.data }}">data</a>] {% endif %}{% if item.press %}[<a target="_blank" href="{{ item.press }}">press</a>]{% endif %}<br>
         </p>
       </li>
       {% endfor %}
