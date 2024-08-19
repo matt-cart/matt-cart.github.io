@@ -33,6 +33,16 @@ featured:
     press: 'https://www.nature.com/articles/d41586-023-02065-y'
   }
   - {
+    name: 'A human milk oligosaccharide alters the microbiome, circulating hormones, cytokines
+and metabolites in a randomized controlled trial of older individuals', 
+    authors: '<u>Carter MM</u>, Demis D, Perelman D, St Onge M, Petlura C, Cunanan K, Mathi K, Maecker HT, Chow
+JM, Robinson JL, Sonnenburg ED, Buck RH, Gardner CD, Sonnenburg JL', 
+    journal: 'MedRxiv', 
+    year: '2023',
+    abstract: 'https://www.medrxiv.org/content/10.1101/2023.08.18.23294085v1',
+    pdf: '/publications/'
+  }
+  - {
     name: 'Butyrate differentiates permissiveness to <i>Clostridioides difficile</i> infection and influences
 growth of diverse <i>C. difficile</i> isolates', 
     authors: 'Pensinger DA, Fisher AT, Dobrila HA, Van Treuren W, Gardner JO, Higginbottom SK, <u>Carter MM</u>,
@@ -73,6 +83,47 @@ N, Holmes S, Sonnenburg ED, Jha AR, Sonnenburg JL',
     data: 'https://tabula-sapiens-portal.ds.czbiohub.org/',
     press: 'https://phys.org/news/2022-05-tabula-sapiens-multi-organ-cell-atlas.html'
   }
+  - {
+    name: 'Assessing the effects of alternative plant-based meats v. animal meats on biomarkers of
+inflammation: a secondary analysis of the SWAP-MEAT randomized crossover trial', 
+    authors: 'Crimarco A, Landry MJ, <u>Carter MM</u>, Gardner CD', 
+    journal: 'The Journal of Nutrition Science', 
+    year: '2022',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/36304815/',
+    pdf: '/publications/'
+  }
+  - {
+    name: 'A randomized crossover trial on the effect of plant-based compared with animal-based
+meat on trimethylamine-N-oxide and cardiovascular disease risk factors in generally
+healthy adults: Study With Appetizing PlantfoodMeat Eating Alternative Trial (SWAP-
+MEAT)', 
+    authors: 'Crimarco A, Springfield S, Petlura C, Streaty T, Cunanan K, Lee J, Fielding-Singh P, <u>Carter MM</u>,
+Topf MA, Wastyk HC, Sonnenburg ED, Sonnenburg JL, Gardner CD', 
+    journal: 'The American Journal of Clinical Nutrition', 
+    year: '2020',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/32780794/',
+    pdf: '/publications/'
+  }
+  - {
+    name: 'Mapping the genomic landscape of CRISPR-Cas9 cleavage', 
+    authors: 'Cameron PS*, Fuller CK*, Donohoue PD, Jones BN, Thompson MS, <u>Carter MM</u>, Gradia S, Vidal B,
+Garner E, Slorach EM, Lau E, Banh LM, Lied AM, Edwards LS, Settle AH, Capurso D, Llaca V,
+Deschamps S, Cigan M, Young JK, May AP', 
+    journal: 'Nature Methods', 
+    year: '2017',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/28459459/',
+    pdf: '/publications/'
+  }
+  - {
+    name: 'DNA Repair Profiling Reveals Nonrandom Outcomes at Cas9-Mediated Breaks', 
+    authors: 'van Overbeek M*, Capurso D*, <u>Carter MM</u>, Thompson MS, Frias E, Russ C, Reece-Hoyes JS, Nye C,
+Gradia S, Vidal B, Zheng J, Hoffman GR, Fuller CK, May AP', 
+    journal: 'Molecular Cell', 
+    year: '2016',
+    abstract: 'https://pubmed.ncbi.nlm.nih.gov/27499295/',
+    pdf: '/publications/'
+  }
+
 
 
 
