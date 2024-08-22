@@ -17,7 +17,7 @@ featured:
     journal: 'Cell', 
     year: '2024',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/38096822/',
-    pdf: '/publications/',
+    pdf: '/publications/PIIS0092867423012710.pdf',
     press: 'https://phys.org/news/2023-12-large-diversity-protists-parabasalia-phylum.html'
   }
   - {
@@ -27,7 +27,7 @@ featured:
     journal: 'Cell', 
     year: '2023',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/37348505/',
-    pdf: '/publications/',
+    pdf: '/publications/1-s2.0-S0092867423005974-main.pdf',
     data: 'https://zenodo.org/records/7782709',
     press: 'https://www.nature.com/articles/d41586-023-02065-y'
   }
@@ -39,7 +39,7 @@ JM, Robinson JL, Sonnenburg ED, Buck RH, Gardner CD&#9830;, Sonnenburg JL&#9830;
     journal: 'MedRxiv', 
     year: '2023',
     abstract: 'https://www.medrxiv.org/content/10.1101/2023.08.18.23294085v1',
-    pdf: '/publications/'
+    pdf: '/publications/2023.08.18.23294085v1.full.pdf'
   }
   - {
     name: 'Butyrate differentiates permissiveness to <i>Clostridioides difficile</i> infection and influences
@@ -50,7 +50,7 @@ Sonnenburg JL, Hryckowian AJ',
     journal: 'Infection and Immunity', 
     year: '2023',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/36692308/',
-    pdf: '/publications/'
+    pdf: '/publications/pensinger-et-al-2023.pdf'
   }
   - {
     name: 'A microbiome-targeting fibre-enriched nutritional formula is well tolerated and improves
@@ -61,7 +61,7 @@ CJ',
     journal: 'Diabetes, Obesity and Metabolism', 
     year: '2023',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/36594522/',
-    pdf: '/publications/'
+    pdf: '/publications/Diabetes Obesity Metabolism_2023_Frias.pdf'
   }
   - {
     name: 'Robust variation in infant gut microbiome assembly across a spectrum of lifestyles', 
@@ -70,7 +70,7 @@ N, Holmes S, Sonnenburg ED, Jha AR, Sonnenburg JL',
     journal: 'Science', 
     year: '2023',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/35679413/',
-    pdf: '/publications/'
+    pdf: '/publications/science.abj2972.pdf'
   }
   - {
     name: 'The Tabula Sapiens: a multiple organ single cell transcriptomic atlas of humans', 
@@ -78,7 +78,7 @@ N, Holmes S, Sonnenburg ED, Jha AR, Sonnenburg JL',
     journal: 'Science', 
     year: '2022',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/35549404/',
-    pdf: '/publications/',
+    pdf: '/publications/science.abl4896.pdf',
     data: 'https://tabula-sapiens-portal.ds.czbiohub.org/',
     press: 'https://phys.org/news/2022-05-tabula-sapiens-multi-organ-cell-atlas.html'
   }
@@ -89,7 +89,7 @@ inflammation: a secondary analysis of the SWAP-MEAT randomized crossover trial',
     journal: 'The Journal of Nutrition Science', 
     year: '2022',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/36304815/',
-    pdf: '/publications/'
+    pdf: '/publications/crimarco_2022.pdf'
   }
   - {
     name: 'A randomized crossover trial on the effect of plant-based compared with animal-based
@@ -101,7 +101,7 @@ Topf MA, Wastyk HC, Sonnenburg ED, Sonnenburg JL, Gardner CD',
     journal: 'The American Journal of Clinical Nutrition', 
     year: '2020',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/32780794/',
-    pdf: '/publications/'
+    pdf: '/publications/1-s2.0-S0002916522008905-main.pdf'
   }
   - {
     name: 'Mapping the genomic landscape of CRISPR-Cas9 cleavage', 
@@ -111,7 +111,7 @@ Deschamps S, Cigan M, Young JK&#9830;, May AP&#9830;',
     journal: 'Nature Methods', 
     year: '2017',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/28459459/',
-    pdf: '/publications/'
+    pdf: '/publications/nmeth.4284.pdf'
   }
   - {
     name: 'DNA Repair Profiling Reveals Nonrandom Outcomes at Cas9-Mediated Breaks', 
@@ -120,7 +120,7 @@ Gradia S, Vidal B, Zheng J, Hoffman GR, Fuller CK, May AP',
     journal: 'Molecular Cell', 
     year: '2016',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/27499295/',
-    pdf: '/publications/'
+    pdf: '/publications/1-s2.0-S1097276516303252-main.pdf'
   }
 
 
