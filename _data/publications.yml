@@ -2,8 +2,8 @@ featured:
   - {
     name: 'Unveiling the epigenetic impact of vegan vs. omnivorous diets on aging: insights from
     the Twins Nutrition Study (TwiNS)', 
-    authors: 'Dwaraka VB*, Aronica L*, Carerras-Gallo N, Robinson JL, Hennings T, Lin A, Turner L, Smith R,
-    Mendez TL, Went H, Ebel ER, <u>Carter MM</u>, Sonnenburg ED, Sonnenburg JL, Gardner CD', 
+    authors: 'Dwaraka VB*&#9830;, Aronica L*, Carerras-Gallo N, Robinson JL, Hennings T, Lin A, Turner L, Smith R,
+    Mendez TL, Went H, Ebel ER, <u>Carter MM</u>, Sonnenburg ED, Sonnenburg JL, Gardner CD&#9830;', 
     journal: 'BMC Medicine', 
     year: '2024',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/39069614/',
@@ -23,7 +23,7 @@ featured:
   - {
     name: 'Ultra-deep sequencing of Hadza hunter-gatherers recovers vanishing gut microbes', 
     authors: '<u>Carter MM</u>*, Olm MR*, Merrill BM*, Dahan D, Tripathi S, Spencer SP, Yu FB, Jain S, Neff N, Jha
-    AR, Sonnenburg ED, Sonnenburg JL', 
+    AR, Sonnenburg ED&#9830;, Sonnenburg JL&#9830;', 
     journal: 'Cell', 
     year: '2023',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/37348505/',
@@ -35,7 +35,7 @@ featured:
     name: 'A human milk oligosaccharide alters the microbiome, circulating hormones, cytokines
 and metabolites in a randomized controlled trial of older individuals', 
     authors: '<u>Carter MM</u>, Demis D, Perelman D, St Onge M, Petlura C, Cunanan K, Mathi K, Maecker HT, Chow
-JM, Robinson JL, Sonnenburg ED, Buck RH, Gardner CD, Sonnenburg JL', 
+JM, Robinson JL, Sonnenburg ED, Buck RH, Gardner CD&#9830;, Sonnenburg JL&#9830;', 
     journal: 'MedRxiv', 
     year: '2023',
     abstract: 'https://www.medrxiv.org/content/10.1101/2023.08.18.23294085v1',
@@ -107,7 +107,7 @@ Topf MA, Wastyk HC, Sonnenburg ED, Sonnenburg JL, Gardner CD',
     name: 'Mapping the genomic landscape of CRISPR-Cas9 cleavage', 
     authors: 'Cameron PS*, Fuller CK*, Donohoue PD, Jones BN, Thompson MS, <u>Carter MM</u>, Gradia S, Vidal B,
 Garner E, Slorach EM, Lau E, Banh LM, Lied AM, Edwards LS, Settle AH, Capurso D, Llaca V,
-Deschamps S, Cigan M, Young JK, May AP', 
+Deschamps S, Cigan M, Young JK&#9830;, May AP&#9830;', 
     journal: 'Nature Methods', 
     year: '2017',
     abstract: 'https://pubmed.ncbi.nlm.nih.gov/28459459/',
